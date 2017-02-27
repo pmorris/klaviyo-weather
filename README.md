@@ -4,6 +4,8 @@ My first Django site, built on a SQLite database for portability. I'd recommend 
 1. Newsletters - Allows the users to opt in and out of newsletters. Also sends newsletter to those subscribed
 2. Wunderground - A python client for the Weather Undgerground API
 
+## Configuration
+The only configuration necessary is to configure the outgoing SMTP server settings in `./codechallenge/settings.py`.
 
 ## Newsletter Module
 This module as web interfaces which allow users to subscribe and unsubscribe from receiving the newsletter. Only one subscription is allowed per email address and each can only be associated with a single location. The 100 most populous US cities are available for selection. An additional 204 cities are available in the database which can be made visible with a slight modification within the code. The hidden cities can be manually linked to any subscriber's account through the admin interface.
