@@ -11,7 +11,7 @@ This module as web interfaces which allow users to subscribe and unsubscribe fro
 I have also provided a management command (`sendnewsletter`) which will send newsletters to all active subscribers, individually. To run this process efficiently, the pertinent weather information is being stored to a local cache in memory. With more time, and with sufficient need, I'd prefer to store these data in Memcache with a 15 minute expiration. The other performance consideration is the method in which the emails are sent. There seem to be several ways to send emails in Python, I felt it was important to send all of the email to a single connection, per each run. I also chose to construct each recipient's email individually for simplicity, and to allow more personal content to be delivered within each email. There's likely some caching which could be implemented here to prevent from reading the templates from disk with each email.
 
 ## Wunderground Module
-This module serves as a client to the Wunderground
+This module serves as a client to the Weather Underground API. It currenly only supports endpoints for Almanac, Conditions and Forecast as those were all that were needed for this project. If this were to be distributed or to be used more heavily, all other API methods, and corresponding tests would need to be added.
 
 ## Final thoughts
 1. both modules have a few hard-coded values (e.g. the number of cities displayed, the Wunderground API key, the cache timeout). With more time I would move all of these constants to configuration files within each respective module.
