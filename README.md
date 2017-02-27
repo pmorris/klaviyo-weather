@@ -7,7 +7,7 @@ My first Django site, built on a SQLite database for portability. I'd recommend 
 ## Configuration
 The only configuration necessary is to configure the outgoing SMTP server settings in `./codechallenge/settings.py`.
 
-## Newsletter Module
+## Newsletters Module
 This module as web interfaces which allow users to subscribe and unsubscribe from receiving the newsletter. Only one subscription is allowed per email address and each can only be associated with a single location. The 100 most populous US cities are available for selection. An additional 204 cities are available in the database which can be made visible with a slight modification within the code. The hidden cities can be manually linked to any subscriber's account through the admin interface.
 
 I have also provided a management command (`sendnewsletter`) which will send newsletters to all active subscribers, individually. To run this process efficiently, the pertinent weather information is being stored to a local cache in memory. With more time, and with sufficient need, I'd prefer to store these data in Memcache with a 15 minute expiration. The other performance consideration is the method in which the emails are sent. There seem to be several ways to send emails in Python, I felt it was important to send all of the email to a single connection, per each run. I also chose to construct each recipient's email individually for simplicity, and to allow more personal content to be delivered within each email. There's likely some caching which could be implemented here to prevent from reading the templates from disk with each email.
