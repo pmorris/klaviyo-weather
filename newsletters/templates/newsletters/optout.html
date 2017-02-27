@@ -1,0 +1,27 @@
+<html>
+<head>
+    <title>Newsletter Opt-Out</title>
+    <style type="text/css">
+        #wpe {
+        border: 1px solid #336633;
+        background: #CCCCCC;
+        color: #003300;
+        margin: auto;
+        width: 30%;
+        padding: 10px;
+        font-family: Arial, Helvetica, Sans Serif;
+    }
+    label, input, select {
+        width: 40%;
+        padding: 1px;
+    }
+    </style>
+</head>
+<body>
+    <div id="wpe">
+        <p>{{ subscriber.email_address }} has been unsubscribed of the newsletter.</p>
+
+        <p>Change your mind? <a href="{{ opt_in_uri }}">Click here</a> to continue recieving the newsletter.</a></p>
+    </div>
+</body>
+</html>

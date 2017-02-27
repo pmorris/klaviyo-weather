@@ -1,0 +1,5 @@
+Hello {{ subscriber.email_address }},
+
+The current weather for {{ subscriber.location.city_state }} is: {{ weather.current_temp }} degrees and {{ weather.current_sky }}.
+
+To stop recieving these emails, please visit: {{ opt_out_url }}

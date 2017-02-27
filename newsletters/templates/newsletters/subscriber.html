@@ -1,0 +1,48 @@
+<html>
+<head>
+    <title>Klaviyo Newsletter Signup</title>
+    <style type="text/css">
+        #wpe {
+        border: 1px solid #336633;
+        background: #CCCCCC;
+        color: #003300;
+        margin: auto;
+        width: 30%;
+        padding: 10px;
+        font-family: Arial, Helvetica, Sans Serif;
+    }
+    label, input, select {
+        width: 40%;
+        padding: 1px;
+    }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $( document ).ready(function () {
+            // populate form fields
+            // TODO: refactor so Python is not writing literals to JavaScript
+            var location_id = '{{ location_id }}';
+            $('#location').val(location_id);
+        })
+    </script>
+</head>
+<body>
+    <div id="wpe">
+        <h3>Hello {{ subscriber.email_address }}</h3>
+
+        <div id="message">
+            {% if subscriber.is_subscribed %}
+                <div id="message-subscribed" class="message message-subscribed">
+                    You are subscribed to the newsletter for {{ subscriber.location }}
+                </div>
+            {% else %}
+                <div id="message-subscribed" class="message message-subscribed">
+                    You are unsubscribed and will not receive our newsletter.
+                    <a href="{{ opt_in_url }}">Click here</a> to opt in.
+                </div>
+            {% endif %}
+        </div>
+
+    </div>
+</body>
+</html>

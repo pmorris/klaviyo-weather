@@ -1,0 +1,3954 @@
+[
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 1,
+    "fields": {
+        "city": "New York",
+        "state_abv": "NY",
+        "country": "US",
+        "population": 8175133,
+        "population_estimate": 8550405,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 2,
+    "fields": {
+        "city": "Los Angeles",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 3792621,
+        "population_estimate": 3971883,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 3,
+    "fields": {
+        "city": "Chicago",
+        "state_abv": "IL",
+        "country": "US",
+        "population": 2695598,
+        "population_estimate": 2720546,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 4,
+    "fields": {
+        "city": "Houston",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 2100263,
+        "population_estimate": 2296224,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 5,
+    "fields": {
+        "city": "Philadelphia",
+        "state_abv": "PA",
+        "country": "US",
+        "population": 1526006,
+        "population_estimate": 1567442,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 6,
+    "fields": {
+        "city": "Phoenix",
+        "state_abv": "AZ",
+        "country": "US",
+        "population": 1445632,
+        "population_estimate": 1563025,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 7,
+    "fields": {
+        "city": "San Antonio",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 1327407,
+        "population_estimate": 1469845,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 8,
+    "fields": {
+        "city": "San Diego",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 1307402,
+        "population_estimate": 1394928,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 9,
+    "fields": {
+        "city": "Dallas",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 1197816,
+        "population_estimate": 1300092,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 10,
+    "fields": {
+        "city": "San Jose",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 945942,
+        "population_estimate": 1026908,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 11,
+    "fields": {
+        "city": "Austin",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 790390,
+        "population_estimate": 931830,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 12,
+    "fields": {
+        "city": "Jacksonville",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 821784,
+        "population_estimate": 868031,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 13,
+    "fields": {
+        "city": "San Francisco",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 805235,
+        "population_estimate": 864816,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 14,
+    "fields": {
+        "city": "Indianapolis",
+        "state_abv": "IN",
+        "country": "US",
+        "population": 820445,
+        "population_estimate": 853173,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 15,
+    "fields": {
+        "city": "Columbus",
+        "state_abv": "OH",
+        "country": "US",
+        "population": 787033,
+        "population_estimate": 850106,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 16,
+    "fields": {
+        "city": "Fort Worth",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 741206,
+        "population_estimate": 833319,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 17,
+    "fields": {
+        "city": "Charlotte",
+        "state_abv": "NC",
+        "country": "US",
+        "population": 731424,
+        "population_estimate": 827097,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 18,
+    "fields": {
+        "city": "Seattle",
+        "state_abv": "WA",
+        "country": "US",
+        "population": 608660,
+        "population_estimate": 684451,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 19,
+    "fields": {
+        "city": "Denver",
+        "state_abv": "CO",
+        "country": "US",
+        "population": 600158,
+        "population_estimate": 682545,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 20,
+    "fields": {
+        "city": "El Paso",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 649121,
+        "population_estimate": 681124,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 21,
+    "fields": {
+        "city": "Detroit",
+        "state_abv": "MI",
+        "country": "US",
+        "population": 713777,
+        "population_estimate": 677116,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 22,
+    "fields": {
+        "city": "Washington",
+        "state_abv": "DC",
+        "country": "US",
+        "population": 601723,
+        "population_estimate": 672228,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 23,
+    "fields": {
+        "city": "Boston",
+        "state_abv": "MA",
+        "country": "US",
+        "population": 617594,
+        "population_estimate": 667137,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 24,
+    "fields": {
+        "city": "Memphis",
+        "state_abv": "TN",
+        "country": "US",
+        "population": 646889,
+        "population_estimate": 655770,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 25,
+    "fields": {
+        "city": "Nashville",
+        "state_abv": "TN",
+        "country": "US",
+        "population": 601222,
+        "population_estimate": 654610,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 26,
+    "fields": {
+        "city": "Portland",
+        "state_abv": "OR",
+        "country": "US",
+        "population": 583776,
+        "population_estimate": 632309,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 27,
+    "fields": {
+        "city": "Oklahoma City",
+        "state_abv": "OK",
+        "country": "US",
+        "population": 579999,
+        "population_estimate": 631346,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 28,
+    "fields": {
+        "city": "Las Vegas",
+        "state_abv": "NV",
+        "country": "US",
+        "population": 583756,
+        "population_estimate": 623747,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 29,
+    "fields": {
+        "city": "Baltimore",
+        "state_abv": "MD",
+        "country": "US",
+        "population": 620961,
+        "population_estimate": 621849,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 30,
+    "fields": {
+        "city": "Louisville",
+        "state_abv": "KY",
+        "country": "US",
+        "population": 597337,
+        "population_estimate": 615366,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 31,
+    "fields": {
+        "city": "Milwaukee",
+        "state_abv": "WI",
+        "country": "US",
+        "population": 594833,
+        "population_estimate": 600155,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 32,
+    "fields": {
+        "city": "Albuquerque",
+        "state_abv": "NM",
+        "country": "US",
+        "population": 545852,
+        "population_estimate": 559121,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 33,
+    "fields": {
+        "city": "Tucson",
+        "state_abv": "AZ",
+        "country": "US",
+        "population": 520116,
+        "population_estimate": 531641,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 34,
+    "fields": {
+        "city": "Fresno",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 494665,
+        "population_estimate": 520052,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 35,
+    "fields": {
+        "city": "Sacramento",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 466488,
+        "population_estimate": 490712,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 36,
+    "fields": {
+        "city": "Kansas City",
+        "state_abv": "MO",
+        "country": "US",
+        "population": 459787,
+        "population_estimate": 475378,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 37,
+    "fields": {
+        "city": "Long Beach",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 462257,
+        "population_estimate": 474140,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 38,
+    "fields": {
+        "city": "Mesa",
+        "state_abv": "AZ",
+        "country": "US",
+        "population": 439041,
+        "population_estimate": 471825,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 39,
+    "fields": {
+        "city": "Atlanta",
+        "state_abv": "GA",
+        "country": "US",
+        "population": 420003,
+        "population_estimate": 463878,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 40,
+    "fields": {
+        "city": "Colorado Springs",
+        "state_abv": "CO",
+        "country": "US",
+        "population": 416427,
+        "population_estimate": 456568,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 41,
+    "fields": {
+        "city": "Virginia Beach",
+        "state_abv": "VA",
+        "country": "US",
+        "population": 437994,
+        "population_estimate": 452745,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 42,
+    "fields": {
+        "city": "Raleigh",
+        "state_abv": "NC",
+        "country": "US",
+        "population": 403892,
+        "population_estimate": 451066,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 43,
+    "fields": {
+        "city": "Omaha",
+        "state_abv": "NE",
+        "country": "US",
+        "population": 408958,
+        "population_estimate": 443885,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 44,
+    "fields": {
+        "city": "Miami",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 399457,
+        "population_estimate": 441003,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 45,
+    "fields": {
+        "city": "Oakland",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 390724,
+        "population_estimate": 419267,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 46,
+    "fields": {
+        "city": "Minneapolis",
+        "state_abv": "MN",
+        "country": "US",
+        "population": 382578,
+        "population_estimate": 410939,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 47,
+    "fields": {
+        "city": "Tulsa",
+        "state_abv": "OK",
+        "country": "US",
+        "population": 391906,
+        "population_estimate": 403505,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 48,
+    "fields": {
+        "city": "Wichita",
+        "state_abv": "KS",
+        "country": "US",
+        "population": 382368,
+        "population_estimate": 389965,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 49,
+    "fields": {
+        "city": "New Orleans",
+        "state_abv": "LA",
+        "country": "US",
+        "population": 343829,
+        "population_estimate": 389617,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 50,
+    "fields": {
+        "city": "Arlington",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 365438,
+        "population_estimate": 388125,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 51,
+    "fields": {
+        "city": "Cleveland",
+        "state_abv": "OH",
+        "country": "US",
+        "population": 396815,
+        "population_estimate": 388072,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 52,
+    "fields": {
+        "city": "Bakersfield",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 347483,
+        "population_estimate": 373640,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 53,
+    "fields": {
+        "city": "Tampa",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 335709,
+        "population_estimate": 369075,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 54,
+    "fields": {
+        "city": "Aurora",
+        "state_abv": "CO",
+        "country": "US",
+        "population": 325078,
+        "population_estimate": 359407,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 55,
+    "fields": {
+        "city": "Honolulu",
+        "state_abv": "HI",
+        "country": "US",
+        "population": 337256,
+        "population_estimate": 352769,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 56,
+    "fields": {
+        "city": "Anaheim",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 336265,
+        "population_estimate": 350742,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 57,
+    "fields": {
+        "city": "Santa Ana",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 324528,
+        "population_estimate": 335400,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 58,
+    "fields": {
+        "city": "Corpus Christi",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 305215,
+        "population_estimate": 324074,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 59,
+    "fields": {
+        "city": "Riverside",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 303871,
+        "population_estimate": 322424,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 60,
+    "fields": {
+        "city": "St. Louis",
+        "state_abv": "MO",
+        "country": "US",
+        "population": 319294,
+        "population_estimate": 315685,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 61,
+    "fields": {
+        "city": "Lexington",
+        "state_abv": "KY",
+        "country": "US",
+        "population": 295803,
+        "population_estimate": 314488,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 62,
+    "fields": {
+        "city": "Stockton",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 291707,
+        "population_estimate": 305658,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 63,
+    "fields": {
+        "city": "Pittsburgh",
+        "state_abv": "PA",
+        "country": "US",
+        "population": 305704,
+        "population_estimate": 304391,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 64,
+    "fields": {
+        "city": "Saint Paul",
+        "state_abv": "MN",
+        "country": "US",
+        "population": 285068,
+        "population_estimate": 300851,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 65,
+    "fields": {
+        "city": "Anchorage",
+        "state_abv": "Alaska",
+        "country": "US",
+        "population": 291826,
+        "population_estimate": 298695,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 66,
+    "fields": {
+        "city": "Cincinnati",
+        "state_abv": "OH",
+        "country": "US",
+        "population": 296943,
+        "population_estimate": 298550,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 67,
+    "fields": {
+        "city": "Henderson",
+        "state_abv": "NV",
+        "country": "US",
+        "population": 257729,
+        "population_estimate": 285667,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 68,
+    "fields": {
+        "city": "Greensboro",
+        "state_abv": "NC",
+        "country": "US",
+        "population": 269666,
+        "population_estimate": 285342,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 69,
+    "fields": {
+        "city": "Plano",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 259841,
+        "population_estimate": 283558,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 70,
+    "fields": {
+        "city": "Newark",
+        "state_abv": "NJ",
+        "country": "US",
+        "population": 277140,
+        "population_estimate": 281944,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 71,
+    "fields": {
+        "city": "Toledo",
+        "state_abv": "OH",
+        "country": "US",
+        "population": 287208,
+        "population_estimate": 279789,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 72,
+    "fields": {
+        "city": "Lincoln",
+        "state_abv": "NE",
+        "country": "US",
+        "population": 258379,
+        "population_estimate": 277348,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 73,
+    "fields": {
+        "city": "Orlando",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 238300,
+        "population_estimate": 270934,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 74,
+    "fields": {
+        "city": "Chula Vista",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 243916,
+        "population_estimate": 265757,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 75,
+    "fields": {
+        "city": "Jersey City",
+        "state_abv": "NJ",
+        "country": "US",
+        "population": 247597,
+        "population_estimate": 264290,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 76,
+    "fields": {
+        "city": "Chandler",
+        "state_abv": "AZ",
+        "country": "US",
+        "population": 236123,
+        "population_estimate": 260828,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 77,
+    "fields": {
+        "city": "Fort Wayne",
+        "state_abv": "IN",
+        "country": "US",
+        "population": 253691,
+        "population_estimate": 260326,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 78,
+    "fields": {
+        "city": "Buffalo",
+        "state_abv": "New York",
+        "country": "US",
+        "population": 261310,
+        "population_estimate": 258071,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 79,
+    "fields": {
+        "city": "Durham",
+        "state_abv": "NC",
+        "country": "US",
+        "population": 228330,
+        "population_estimate": 257636,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 80,
+    "fields": {
+        "city": "St. Petersburg",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 244769,
+        "population_estimate": 257083,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 81,
+    "fields": {
+        "city": "Irvine",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 212375,
+        "population_estimate": 256927,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 82,
+    "fields": {
+        "city": "Laredo",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 236091,
+        "population_estimate": 255473,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 83,
+    "fields": {
+        "city": "Lubbock",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 229573,
+        "population_estimate": 249042,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 84,
+    "fields": {
+        "city": "Madison",
+        "state_abv": "WI",
+        "country": "US",
+        "population": 233209,
+        "population_estimate": 248951,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 85,
+    "fields": {
+        "city": "Gilbert",
+        "state_abv": "AZ",
+        "country": "US",
+        "population": 208453,
+        "population_estimate": 247542,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 86,
+    "fields": {
+        "city": "Norfolk",
+        "state_abv": "VA",
+        "country": "US",
+        "population": 242803,
+        "population_estimate": 246393,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 87,
+    "fields": {
+        "city": "Reno",
+        "state_abv": "NV",
+        "country": "US",
+        "population": 225221,
+        "population_estimate": 241445,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 88,
+    "fields": {
+        "city": "Winston\u2013Salem",
+        "state_abv": "NC",
+        "country": "US",
+        "population": 229617,
+        "population_estimate": 241218,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 89,
+    "fields": {
+        "city": "Glendale",
+        "state_abv": "AZ",
+        "country": "US",
+        "population": 226721,
+        "population_estimate": 240126,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 90,
+    "fields": {
+        "city": "Hialeah",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 224669,
+        "population_estimate": 237069,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 91,
+    "fields": {
+        "city": "Garland",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 226876,
+        "population_estimate": 236897,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 92,
+    "fields": {
+        "city": "Scottsdale",
+        "state_abv": "AZ",
+        "country": "US",
+        "population": 217385,
+        "population_estimate": 236839,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 93,
+    "fields": {
+        "city": "Irving",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 216290,
+        "population_estimate": 236607,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 94,
+    "fields": {
+        "city": "Chesapeake",
+        "state_abv": "VA",
+        "country": "US",
+        "population": 222209,
+        "population_estimate": 235429,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 95,
+    "fields": {
+        "city": "North Las Vegas",
+        "state_abv": "NV",
+        "country": "US",
+        "population": 216961,
+        "population_estimate": 234807,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 96,
+    "fields": {
+        "city": "Fremont",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 214089,
+        "population_estimate": 232206,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 97,
+    "fields": {
+        "city": "Baton Rouge",
+        "state_abv": "LA",
+        "country": "US",
+        "population": 229493,
+        "population_estimate": 228590,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 98,
+    "fields": {
+        "city": "Richmond",
+        "state_abv": "VA",
+        "country": "US",
+        "population": 204214,
+        "population_estimate": 220289,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 99,
+    "fields": {
+        "city": "Boise",
+        "state_abv": "Idaho",
+        "country": "US",
+        "population": 205671,
+        "population_estimate": 218281,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 100,
+    "fields": {
+        "city": "San Bernardino",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 209924,
+        "population_estimate": 216108,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 101,
+    "fields": {
+        "city": "Spokane",
+        "state_abv": "WA",
+        "country": "US",
+        "population": 208916,
+        "population_estimate": 213272,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 102,
+    "fields": {
+        "city": "Birmingham",
+        "state_abv": "AL",
+        "country": "US",
+        "population": 212237,
+        "population_estimate": 212461,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 103,
+    "fields": {
+        "city": "Modesto",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 201165,
+        "population_estimate": 211266,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 104,
+    "fields": {
+        "city": "Des Moines",
+        "state_abv": "IA",
+        "country": "US",
+        "population": 203433,
+        "population_estimate": 210330,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 105,
+    "fields": {
+        "city": "Rochester",
+        "state_abv": "New York",
+        "country": "US",
+        "population": 210565,
+        "population_estimate": 209802,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 106,
+    "fields": {
+        "city": "Tacoma",
+        "state_abv": "WA",
+        "country": "US",
+        "population": 198397,
+        "population_estimate": 207948,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 107,
+    "fields": {
+        "city": "Fontana",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 196069,
+        "population_estimate": 207460,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 108,
+    "fields": {
+        "city": "Oxnard",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 197899,
+        "population_estimate": 207254,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 109,
+    "fields": {
+        "city": "Moreno Valley",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 193365,
+        "population_estimate": 204198,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 110,
+    "fields": {
+        "city": "Fayetteville",
+        "state_abv": "NC",
+        "country": "US",
+        "population": 200564,
+        "population_estimate": 201963,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 111,
+    "fields": {
+        "city": "Huntington Beach",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 189992,
+        "population_estimate": 201899,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 112,
+    "fields": {
+        "city": "Yonkers",
+        "state_abv": "New York",
+        "country": "US",
+        "population": 195976,
+        "population_estimate": 201116,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 113,
+    "fields": {
+        "city": "Glendale",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 191719,
+        "population_estimate": 201020,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 114,
+    "fields": {
+        "city": "Aurora",
+        "state_abv": "IL",
+        "country": "US",
+        "population": 197899,
+        "population_estimate": 200661,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 115,
+    "fields": {
+        "city": "Montgomery",
+        "state_abv": "AL",
+        "country": "US",
+        "population": 205764,
+        "population_estimate": 200602,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 116,
+    "fields": {
+        "city": "Columbus",
+        "state_abv": "GA",
+        "country": "US",
+        "population": 189885,
+        "population_estimate": 200579,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 117,
+    "fields": {
+        "city": "Amarillo",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 190695,
+        "population_estimate": 198645,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 118,
+    "fields": {
+        "city": "Little Rock",
+        "state_abv": "AR",
+        "country": "US",
+        "population": 193524,
+        "population_estimate": 197992,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 119,
+    "fields": {
+        "city": "Akron",
+        "state_abv": "OH",
+        "country": "US",
+        "population": 199110,
+        "population_estimate": 197542,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 120,
+    "fields": {
+        "city": "Shreveport",
+        "state_abv": "LA",
+        "country": "US",
+        "population": 199311,
+        "population_estimate": 197204,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 121,
+    "fields": {
+        "city": "Augusta",
+        "state_abv": "GA",
+        "country": "US",
+        "population": 195844,
+        "population_estimate": 197182,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 122,
+    "fields": {
+        "city": "Grand Rapids",
+        "state_abv": "MI",
+        "country": "US",
+        "population": 188040,
+        "population_estimate": 195097,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 123,
+    "fields": {
+        "city": "Mobile",
+        "state_abv": "AL",
+        "country": "US",
+        "population": 195111,
+        "population_estimate": 194288,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 124,
+    "fields": {
+        "city": "Salt Lake City",
+        "state_abv": "UT",
+        "country": "US",
+        "population": 186440,
+        "population_estimate": 192672,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 125,
+    "fields": {
+        "city": "Huntsville",
+        "state_abv": "AL",
+        "country": "US",
+        "population": 180105,
+        "population_estimate": 190582,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 126,
+    "fields": {
+        "city": "Tallahassee",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 181376,
+        "population_estimate": 189907,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 127,
+    "fields": {
+        "city": "Grand Prairie",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 175396,
+        "population_estimate": 187809,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 128,
+    "fields": {
+        "city": "Overland Park",
+        "state_abv": "KS",
+        "country": "US",
+        "population": 173372,
+        "population_estimate": 186515,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 129,
+    "fields": {
+        "city": "Knoxville",
+        "state_abv": "TN",
+        "country": "US",
+        "population": 178874,
+        "population_estimate": 185291,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 130,
+    "fields": {
+        "city": "Worcester",
+        "state_abv": "MA",
+        "country": "US",
+        "population": 181045,
+        "population_estimate": 184815,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 131,
+    "fields": {
+        "city": "Brownsville",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 175023,
+        "population_estimate": 183887,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 132,
+    "fields": {
+        "city": "Newport News",
+        "state_abv": "VA",
+        "country": "US",
+        "population": 180719,
+        "population_estimate": 182385,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 133,
+    "fields": {
+        "city": "Santa Clarita",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 176320,
+        "population_estimate": 182371,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 134,
+    "fields": {
+        "city": "Port St. Lucie",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 164603,
+        "population_estimate": 179413,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 135,
+    "fields": {
+        "city": "Providence",
+        "state_abv": "RI",
+        "country": "US",
+        "population": 178042,
+        "population_estimate": 179207,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 136,
+    "fields": {
+        "city": "Fort Lauderdale",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 165521,
+        "population_estimate": 178590,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 137,
+    "fields": {
+        "city": "Chattanooga",
+        "state_abv": "TN",
+        "country": "US",
+        "population": 167674,
+        "population_estimate": 176588,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 138,
+    "fields": {
+        "city": "Tempe",
+        "state_abv": "AZ",
+        "country": "US",
+        "population": 161719,
+        "population_estimate": 175826,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 139,
+    "fields": {
+        "city": "Oceanside",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 167086,
+        "population_estimate": 175691,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 140,
+    "fields": {
+        "city": "Garden Grove",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 170883,
+        "population_estimate": 175393,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 141,
+    "fields": {
+        "city": "Rancho Cucamonga",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 165269,
+        "population_estimate": 175236,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 142,
+    "fields": {
+        "city": "Cape Coral",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 154305,
+        "population_estimate": 175229,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 143,
+    "fields": {
+        "city": "Santa Rosa",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 167815,
+        "population_estimate": 174972,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 144,
+    "fields": {
+        "city": "Vancouver",
+        "state_abv": "WA",
+        "country": "US",
+        "population": 161791,
+        "population_estimate": 172860,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 145,
+    "fields": {
+        "city": "Sioux Falls",
+        "state_abv": "SD",
+        "country": "US",
+        "population": 153888,
+        "population_estimate": 171544,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 146,
+    "fields": {
+        "city": "Peoria",
+        "state_abv": "AZ",
+        "country": "US",
+        "population": 154065,
+        "population_estimate": 171237,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 147,
+    "fields": {
+        "city": "Ontario",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 163924,
+        "population_estimate": 171214,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 148,
+    "fields": {
+        "city": "Jackson",
+        "state_abv": "MS",
+        "country": "US",
+        "population": 173514,
+        "population_estimate": 170674,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 149,
+    "fields": {
+        "city": "Elk Grove",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 153015,
+        "population_estimate": 166913,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 150,
+    "fields": {
+        "city": "Springfield",
+        "state_abv": "MO",
+        "country": "US",
+        "population": 159498,
+        "population_estimate": 166810,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 151,
+    "fields": {
+        "city": "Pembroke Pines",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 154019,
+        "population_estimate": 166611,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 152,
+    "fields": {
+        "city": "Salem",
+        "state_abv": "OR",
+        "country": "US",
+        "population": 154637,
+        "population_estimate": 164549,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 153,
+    "fields": {
+        "city": "Corona",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 152374,
+        "population_estimate": 164226,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 154,
+    "fields": {
+        "city": "Eugene",
+        "state_abv": "OR",
+        "country": "US",
+        "population": 156185,
+        "population_estimate": 163460,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 155,
+    "fields": {
+        "city": "McKinney",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 131117,
+        "population_estimate": 162898,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 156,
+    "fields": {
+        "city": "Fort Collins",
+        "state_abv": "CO",
+        "country": "US",
+        "population": 143986,
+        "population_estimate": 161175,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 157,
+    "fields": {
+        "city": "Lancaster",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 156633,
+        "population_estimate": 161103,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 158,
+    "fields": {
+        "city": "Cary",
+        "state_abv": "NC",
+        "country": "US",
+        "population": 135234,
+        "population_estimate": 159769,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 159,
+    "fields": {
+        "city": "Palmdale",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 152750,
+        "population_estimate": 158351,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 160,
+    "fields": {
+        "city": "Hayward",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 144186,
+        "population_estimate": 158289,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 161,
+    "fields": {
+        "city": "Salinas",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 150441,
+        "population_estimate": 157380,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 162,
+    "fields": {
+        "city": "Frisco",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 116989,
+        "population_estimate": 154407,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 163,
+    "fields": {
+        "city": "Springfield",
+        "state_abv": "MA",
+        "country": "US",
+        "population": 153060,
+        "population_estimate": 154341,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 164,
+    "fields": {
+        "city": "Pasadena",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 149043,
+        "population_estimate": 153784,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 165,
+    "fields": {
+        "city": "Macon",
+        "state_abv": "GA",
+        "country": "US",
+        "population": 91351,
+        "population_estimate": 153515,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 166,
+    "fields": {
+        "city": "Alexandria",
+        "state_abv": "VA",
+        "country": "US",
+        "population": 139966,
+        "population_estimate": 153511,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 167,
+    "fields": {
+        "city": "Pomona",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 149058,
+        "population_estimate": 153266,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 168,
+    "fields": {
+        "city": "Lakewood",
+        "state_abv": "CO",
+        "country": "US",
+        "population": 142980,
+        "population_estimate": 152597,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 169,
+    "fields": {
+        "city": "Sunnyvale",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 140081,
+        "population_estimate": 151754,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 170,
+    "fields": {
+        "city": "Escondido",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 143911,
+        "population_estimate": 151451,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 171,
+    "fields": {
+        "city": "Kansas City",
+        "state_abv": "KS",
+        "country": "US",
+        "population": 145786,
+        "population_estimate": 151306,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 172,
+    "fields": {
+        "city": "Hollywood",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 140768,
+        "population_estimate": 149728,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 173,
+    "fields": {
+        "city": "Clarksville",
+        "state_abv": "TN",
+        "country": "US",
+        "population": 132929,
+        "population_estimate": 149176,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 174,
+    "fields": {
+        "city": "Torrance",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 145438,
+        "population_estimate": 148475,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 175,
+    "fields": {
+        "city": "Rockford",
+        "state_abv": "IL",
+        "country": "US",
+        "population": 152871,
+        "population_estimate": 148278,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 176,
+    "fields": {
+        "city": "Joliet",
+        "state_abv": "IL",
+        "country": "US",
+        "population": 147433,
+        "population_estimate": 147861,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 177,
+    "fields": {
+        "city": "Paterson",
+        "state_abv": "NJ",
+        "country": "US",
+        "population": 146199,
+        "population_estimate": 147754,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 178,
+    "fields": {
+        "city": "Bridgeport",
+        "state_abv": "CT",
+        "country": "US",
+        "population": 144229,
+        "population_estimate": 147629,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 179,
+    "fields": {
+        "city": "Naperville",
+        "state_abv": "IL",
+        "country": "US",
+        "population": 141853,
+        "population_estimate": 147100,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 180,
+    "fields": {
+        "city": "Savannah",
+        "state_abv": "GA",
+        "country": "US",
+        "population": 136286,
+        "population_estimate": 145674,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 181,
+    "fields": {
+        "city": "Mesquite",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 139824,
+        "population_estimate": 144788,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 182,
+    "fields": {
+        "city": "Syracuse",
+        "state_abv": "New York",
+        "country": "US",
+        "population": 145170,
+        "population_estimate": 144142,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 183,
+    "fields": {
+        "city": "Pasadena",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 137122,
+        "population_estimate": 142250,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 184,
+    "fields": {
+        "city": "Orange",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 136416,
+        "population_estimate": 140992,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 185,
+    "fields": {
+        "city": "Fullerton",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 135161,
+        "population_estimate": 140847,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 186,
+    "fields": {
+        "city": "Killeen",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 127921,
+        "population_estimate": 140806,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 187,
+    "fields": {
+        "city": "Dayton",
+        "state_abv": "OH",
+        "country": "US",
+        "population": 141527,
+        "population_estimate": 140599,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 188,
+    "fields": {
+        "city": "McAllen",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 129877,
+        "population_estimate": 140269,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 189,
+    "fields": {
+        "city": "Bellevue",
+        "state_abv": "WA",
+        "country": "US",
+        "population": 122363,
+        "population_estimate": 139820,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 190,
+    "fields": {
+        "city": "Miramar",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 122041,
+        "population_estimate": 137132,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 191,
+    "fields": {
+        "city": "Hampton",
+        "state_abv": "VA",
+        "country": "US",
+        "population": 137436,
+        "population_estimate": 136454,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 192,
+    "fields": {
+        "city": "West Valley City",
+        "state_abv": "UT",
+        "country": "US",
+        "population": 129480,
+        "population_estimate": 136208,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 193,
+    "fields": {
+        "city": "Warren",
+        "state_abv": "MI",
+        "country": "US",
+        "population": 134056,
+        "population_estimate": 135358,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 194,
+    "fields": {
+        "city": "Olathe",
+        "state_abv": "KS",
+        "country": "US",
+        "population": 125872,
+        "population_estimate": 134305,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 195,
+    "fields": {
+        "city": "Columbia",
+        "state_abv": "SC",
+        "country": "US",
+        "population": 129272,
+        "population_estimate": 133803,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 196,
+    "fields": {
+        "city": "Thornton",
+        "state_abv": "CO",
+        "country": "US",
+        "population": 118772,
+        "population_estimate": 133451,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 197,
+    "fields": {
+        "city": "Carrollton",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 119097,
+        "population_estimate": 133168,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 198,
+    "fields": {
+        "city": "Midland",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 111147,
+        "population_estimate": 132950,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 199,
+    "fields": {
+        "city": "Charleston",
+        "state_abv": "SC",
+        "country": "US",
+        "population": 120083,
+        "population_estimate": 132609,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 200,
+    "fields": {
+        "city": "Waco",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 124805,
+        "population_estimate": 132356,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 201,
+    "fields": {
+        "city": "Sterling Heights",
+        "state_abv": "MI",
+        "country": "US",
+        "population": 129699,
+        "population_estimate": 132052,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 202,
+    "fields": {
+        "city": "Denton",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 113383,
+        "population_estimate": 131044,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 203,
+    "fields": {
+        "city": "Cedar Rapids",
+        "state_abv": "IA",
+        "country": "US",
+        "population": 126326,
+        "population_estimate": 130405,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 204,
+    "fields": {
+        "city": "New Haven",
+        "state_abv": "CT",
+        "country": "US",
+        "population": 129779,
+        "population_estimate": 130322,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 205,
+    "fields": {
+        "city": "Roseville",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 118788,
+        "population_estimate": 130269,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 206,
+    "fields": {
+        "city": "Gainesville",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 124354,
+        "population_estimate": 130128,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 207,
+    "fields": {
+        "city": "Visalia",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 124442,
+        "population_estimate": 130104,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 208,
+    "fields": {
+        "city": "Coral Springs",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 121096,
+        "population_estimate": 129485,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 209,
+    "fields": {
+        "city": "Thousand Oaks",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 126683,
+        "population_estimate": 129339,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 210,
+    "fields": {
+        "city": "Elizabeth",
+        "state_abv": "NJ",
+        "country": "US",
+        "population": 124969,
+        "population_estimate": 129007,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 211,
+    "fields": {
+        "city": "Stamford",
+        "state_abv": "CT",
+        "country": "US",
+        "population": 122643,
+        "population_estimate": 128874,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 212,
+    "fields": {
+        "city": "Concord",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 122067,
+        "population_estimate": 128667,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 213,
+    "fields": {
+        "city": "Surprise",
+        "state_abv": "AZ",
+        "country": "US",
+        "population": 117517,
+        "population_estimate": 128422,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 214,
+    "fields": {
+        "city": "Lafayette",
+        "state_abv": "LA",
+        "country": "US",
+        "population": 120623,
+        "population_estimate": 127657,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 215,
+    "fields": {
+        "city": "Topeka",
+        "state_abv": "KS",
+        "country": "US",
+        "population": 127473,
+        "population_estimate": 127265,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 216,
+    "fields": {
+        "city": "Kent",
+        "state_abv": "WA",
+        "country": "US",
+        "population": 92411,
+        "population_estimate": 126952,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 217,
+    "fields": {
+        "city": "Simi Valley",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 124237,
+        "population_estimate": 126788,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 218,
+    "fields": {
+        "city": "Santa Clara",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 116468,
+        "population_estimate": 126215,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 219,
+    "fields": {
+        "city": "Murfreesboro",
+        "state_abv": "TN",
+        "country": "US",
+        "population": 108755,
+        "population_estimate": 126118,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 220,
+    "fields": {
+        "city": "Hartford",
+        "state_abv": "CT",
+        "country": "US",
+        "population": 124775,
+        "population_estimate": 124006,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 221,
+    "fields": {
+        "city": "Athens",
+        "state_abv": "GA",
+        "country": "US",
+        "population": 115452,
+        "population_estimate": 122604,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 222,
+    "fields": {
+        "city": "Victorville",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 115903,
+        "population_estimate": 122225,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 223,
+    "fields": {
+        "city": "Abilene",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 117063,
+        "population_estimate": 121721,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 224,
+    "fields": {
+        "city": "Vallejo",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 115942,
+        "population_estimate": 121253,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 225,
+    "fields": {
+        "city": "Berkeley",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 112580,
+        "population_estimate": 120972,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 226,
+    "fields": {
+        "city": "Norman",
+        "state_abv": "OK",
+        "country": "US",
+        "population": 110925,
+        "population_estimate": 120284,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 227,
+    "fields": {
+        "city": "Allentown",
+        "state_abv": "PA",
+        "country": "US",
+        "population": 118032,
+        "population_estimate": 120207,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 228,
+    "fields": {
+        "city": "Evansville",
+        "state_abv": "IN",
+        "country": "US",
+        "population": 117429,
+        "population_estimate": 119943,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 229,
+    "fields": {
+        "city": "Columbia",
+        "state_abv": "MO",
+        "country": "US",
+        "population": 108500,
+        "population_estimate": 119108,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 230,
+    "fields": {
+        "city": "Odessa",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 99940,
+        "population_estimate": 118968,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 231,
+    "fields": {
+        "city": "Fargo",
+        "state_abv": "ND",
+        "country": "US",
+        "population": 105549,
+        "population_estimate": 118523,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 232,
+    "fields": {
+        "city": "Beaumont",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 118296,
+        "population_estimate": 118129,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 233,
+    "fields": {
+        "city": "Independence",
+        "state_abv": "MO",
+        "country": "US",
+        "population": 116830,
+        "population_estimate": 117255,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 234,
+    "fields": {
+        "city": "Ann Arbor",
+        "state_abv": "MI",
+        "country": "US",
+        "population": 113934,
+        "population_estimate": 117070,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 235,
+    "fields": {
+        "city": "El Monte",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 113475,
+        "population_estimate": 116732,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 236,
+    "fields": {
+        "city": "Springfield",
+        "state_abv": "IL",
+        "country": "US",
+        "population": 116250,
+        "population_estimate": 116565,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 237,
+    "fields": {
+        "city": "Round Rock",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 99887,
+        "population_estimate": 115997,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 238,
+    "fields": {
+        "city": "Wilmington",
+        "state_abv": "NC",
+        "country": "US",
+        "population": 106476,
+        "population_estimate": 115933,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 239,
+    "fields": {
+        "city": "Arvada",
+        "state_abv": "CO",
+        "country": "US",
+        "population": 106433,
+        "population_estimate": 115368,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 240,
+    "fields": {
+        "city": "Provo",
+        "state_abv": "UT",
+        "country": "US",
+        "population": 112488,
+        "population_estimate": 115264,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 241,
+    "fields": {
+        "city": "Peoria",
+        "state_abv": "IL",
+        "country": "US",
+        "population": 115007,
+        "population_estimate": 115070,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 242,
+    "fields": {
+        "city": "Lansing",
+        "state_abv": "MI",
+        "country": "US",
+        "population": 114297,
+        "population_estimate": 115056,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 243,
+    "fields": {
+        "city": "Downey",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 111772,
+        "population_estimate": 114219,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 244,
+    "fields": {
+        "city": "Carlsbad",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 105328,
+        "population_estimate": 113453,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 245,
+    "fields": {
+        "city": "Costa Mesa",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 109960,
+        "population_estimate": 113204,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 246,
+    "fields": {
+        "city": "Miami Gardens",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 107167,
+        "population_estimate": 113187,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 247,
+    "fields": {
+        "city": "Westminster",
+        "state_abv": "CO",
+        "country": "US",
+        "population": 106114,
+        "population_estimate": 113130,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 248,
+    "fields": {
+        "city": "Clearwater",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 107685,
+        "population_estimate": 113003,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 249,
+    "fields": {
+        "city": "Fairfield",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 105321,
+        "population_estimate": 112970,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 250,
+    "fields": {
+        "city": "Rochester",
+        "state_abv": "MN",
+        "country": "US",
+        "population": 106769,
+        "population_estimate": 112225,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 251,
+    "fields": {
+        "city": "Elgin",
+        "state_abv": "IL",
+        "country": "US",
+        "population": 108188,
+        "population_estimate": 112111,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 252,
+    "fields": {
+        "city": "Temecula",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 100097,
+        "population_estimate": 112011,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 253,
+    "fields": {
+        "city": "West Jordan",
+        "state_abv": "UT",
+        "country": "US",
+        "population": 103712,
+        "population_estimate": 111946,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 254,
+    "fields": {
+        "city": "Inglewood",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 109673,
+        "population_estimate": 111666,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 255,
+    "fields": {
+        "city": "Richardson",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 99223,
+        "population_estimate": 110815,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 256,
+    "fields": {
+        "city": "Lowell",
+        "state_abv": "MA",
+        "country": "US",
+        "population": 106519,
+        "population_estimate": 110699,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 257,
+    "fields": {
+        "city": "Gresham",
+        "state_abv": "OR",
+        "country": "US",
+        "population": 105594,
+        "population_estimate": 110553,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 258,
+    "fields": {
+        "city": "Antioch",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 102372,
+        "population_estimate": 110542,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 259,
+    "fields": {
+        "city": "Cambridge",
+        "state_abv": "MA",
+        "country": "US",
+        "population": 105162,
+        "population_estimate": 110402,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 260,
+    "fields": {
+        "city": "High Point",
+        "state_abv": "NC",
+        "country": "US",
+        "population": 104371,
+        "population_estimate": 110268,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 261,
+    "fields": {
+        "city": "Billings",
+        "state_abv": "MT",
+        "country": "US",
+        "population": 104170,
+        "population_estimate": 110263,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 262,
+    "fields": {
+        "city": "Manchester",
+        "state_abv": "NH",
+        "country": "US",
+        "population": 109565,
+        "population_estimate": 110229,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 263,
+    "fields": {
+        "city": "Murrieta",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 103466,
+        "population_estimate": 109830,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 264,
+    "fields": {
+        "city": "Centennial",
+        "state_abv": "CO",
+        "country": "US",
+        "population": 100377,
+        "population_estimate": 109741,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 265,
+    "fields": {
+        "city": "Richmond",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 103701,
+        "population_estimate": 109708,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 266,
+    "fields": {
+        "city": "Ventura",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 106433,
+        "population_estimate": 109708,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 267,
+    "fields": {
+        "city": "Pueblo",
+        "state_abv": "CO",
+        "country": "US",
+        "population": 106595,
+        "population_estimate": 109412,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 268,
+    "fields": {
+        "city": "Pearland",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 91252,
+        "population_estimate": 108821,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 269,
+    "fields": {
+        "city": "Waterbury",
+        "state_abv": "CT",
+        "country": "US",
+        "population": 110366,
+        "population_estimate": 108802,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 270,
+    "fields": {
+        "city": "West Covina",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 106098,
+        "population_estimate": 108484,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 271,
+    "fields": {
+        "city": "North Charleston",
+        "state_abv": "SC",
+        "country": "US",
+        "population": 97471,
+        "population_estimate": 108304,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 272,
+    "fields": {
+        "city": "Everett",
+        "state_abv": "WA",
+        "country": "US",
+        "population": 103019,
+        "population_estimate": 108010,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 273,
+    "fields": {
+        "city": "College Station",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 93857,
+        "population_estimate": 107889,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 274,
+    "fields": {
+        "city": "Palm Bay",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 103190,
+        "population_estimate": 107888,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 275,
+    "fields": {
+        "city": "Pompano Beach",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 99845,
+        "population_estimate": 107762,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 276,
+    "fields": {
+        "city": "Boulder",
+        "state_abv": "CO",
+        "country": "US",
+        "population": 97385,
+        "population_estimate": 107349,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 277,
+    "fields": {
+        "city": "Norwalk",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 105549,
+        "population_estimate": 107140,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 278,
+    "fields": {
+        "city": "West Palm Beach",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 99919,
+        "population_estimate": 106779,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 279,
+    "fields": {
+        "city": "Broken Arrow",
+        "state_abv": "OK",
+        "country": "US",
+        "population": 98850,
+        "population_estimate": 106563,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 280,
+    "fields": {
+        "city": "Daly City",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 101123,
+        "population_estimate": 106562,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 281,
+    "fields": {
+        "city": "Sandy Springs",
+        "state_abv": "GA",
+        "country": "US",
+        "population": 93853,
+        "population_estimate": 105330,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 282,
+    "fields": {
+        "city": "Burbank",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 103340,
+        "population_estimate": 105319,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 283,
+    "fields": {
+        "city": "Green Bay",
+        "state_abv": "WI",
+        "country": "US",
+        "population": 104057,
+        "population_estimate": 105207,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 284,
+    "fields": {
+        "city": "Santa Maria",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 99553,
+        "population_estimate": 105093,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 285,
+    "fields": {
+        "city": "Wichita Falls",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 104553,
+        "population_estimate": 104710,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 286,
+    "fields": {
+        "city": "Lakeland",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 97422,
+        "population_estimate": 104401,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 287,
+    "fields": {
+        "city": "Clovis",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 95631,
+        "population_estimate": 104180,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 288,
+    "fields": {
+        "city": "Lewisville",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 95290,
+        "population_estimate": 104039,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 289,
+    "fields": {
+        "city": "Tyler",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 96900,
+        "population_estimate": 103700,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 290,
+    "fields": {
+        "city": "El Cajon",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 99478,
+        "population_estimate": 103679,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 291,
+    "fields": {
+        "city": "San Mateo",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 97207,
+        "population_estimate": 103536,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 292,
+    "fields": {
+        "city": "Rialto",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 99171,
+        "population_estimate": 103132,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 293,
+    "fields": {
+        "city": "Edison",
+        "state_abv": "NJ",
+        "country": "US",
+        "population": 99967,
+        "population_estimate": 102701,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 294,
+    "fields": {
+        "city": "Davenport",
+        "state_abv": "IA",
+        "country": "US",
+        "population": 99685,
+        "population_estimate": 102582,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 295,
+    "fields": {
+        "city": "Hillsboro",
+        "state_abv": "OR",
+        "country": "US",
+        "population": 91611,
+        "population_estimate": 102347,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 296,
+    "fields": {
+        "city": "Woodbridge",
+        "state_abv": "NJ",
+        "country": "US",
+        "population": 99585,
+        "population_estimate": 102105,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 297,
+    "fields": {
+        "city": "Las Cruces",
+        "state_abv": "NM",
+        "country": "US",
+        "population": 97618,
+        "population_estimate": 101643,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 298,
+    "fields": {
+        "city": "South Bend",
+        "state_abv": "IN",
+        "country": "US",
+        "population": 101168,
+        "population_estimate": 101516,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 299,
+    "fields": {
+        "city": "Vista",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 93834,
+        "population_estimate": 100890,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 300,
+    "fields": {
+        "city": "Greeley",
+        "state_abv": "CO",
+        "country": "US",
+        "population": 92889,
+        "population_estimate": 100883,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 301,
+    "fields": {
+        "city": "Davie",
+        "state_abv": "FL",
+        "country": "US",
+        "population": 91992,
+        "population_estimate": 100882,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 302,
+    "fields": {
+        "city": "San Angelo",
+        "state_abv": "TX",
+        "country": "US",
+        "population": 93200,
+        "population_estimate": 100450,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 303,
+    "fields": {
+        "city": "Jurupa Valley",
+        "state_abv": "CA",
+        "country": "US",
+        "population": 0,
+        "population_estimate": 100314,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+},
+{
+    "model": "newsletters.subscriberlocation",
+    "pk": 304,
+    "fields": {
+        "city": "Renton",
+        "state_abv": "WA",
+        "country": "US",
+        "population": 90927,
+        "population_estimate": 100242,
+        "created_at": "2017-01-01T12:00:00Z",
+        "updated_at": "2017-01-01T12:00:00Z"
+    }
+}
+]

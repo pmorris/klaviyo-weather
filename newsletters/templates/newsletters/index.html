@@ -1,0 +1,61 @@
+<html>
+<head>
+    <title>Newsletter Signup</title>
+    <style type="text/css">
+        #wpe {
+        border: 1px solid #336633;
+        background: #CCCCCC;
+        color: #003300;
+        margin: auto;
+        width: 30%;
+        padding: 10px;
+        font-family: Arial, Helvetica, Sans Serif;
+    }
+    label, input, select {
+        width: 40%;
+        padding: 1px;
+    }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $( document ).ready(function () {
+            // populate form fields
+            // TODO: refactor so Python is not writing literals to JavaScript
+            var location_id = '{{ location_id }}';
+            $('#location').val(location_id);
+        })
+    </script>
+</head>
+<body>
+    <div id="wpe">
+        <h1>Weather Powered Email</h1>
+
+        {% if error_message %}<div><strong>{{ error_message }}</strong></div>{% endif %}
+
+        <form action="{% url 'newsletters:subscribe' %}" method="post">
+            {% csrf_token %}
+            <div>
+                <label for=""email>Email Address</label>
+                <input type="text" id="email" name="email" value="{{ email_address }}"/>
+            </div>
+            <div>
+                <label for="location">Location</label>
+                <select name="location" id="location">
+                    <option value="">Where do you live?</option>
+                    {% for state, locations in location_group.items %}
+                        <optgroup label="{{ state }}">
+                            {% for location in locations %}
+                            <option value="{{ location.id }}">{{ location.city }}, {{ location.state_abv }}</option>
+                            {% endfor %}
+                        </optgroup>
+                    {% endfor %}
+                </select>
+            </div>
+            <div>
+                <input type="submit" value="Subscribe" />
+            </div>
+        </form>
+
+    </div>
+</body>
+</html>

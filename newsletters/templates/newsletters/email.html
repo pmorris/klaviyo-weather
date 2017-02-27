@@ -1,0 +1,17 @@
+<html>
+<head>
+    <title>{{ weather.subject }}</title>
+</head>
+<body>
+    <div>
+        <p>Hello {{ subscriber.email_address }},</p>
+
+        <p>The current weather for {{ subscriber.location.city_state }} is: {{ weather.current_temp }} degrees
+            and {{ weather.current_sky }}.</p>
+
+        <p><img src="{{ weather.current_sky_url }}" alt="{{ weather.current_sky }}" /></p>
+
+        <p><a href="{{ opt_out_url }}" target="_blank">Click here</a> to stop recieving these emails</p>
+    </div>
+</body>
+</html>
