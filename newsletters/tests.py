@@ -412,6 +412,20 @@ class WeatherTest(TestCase):
             )
         )
 
+    def test_dispose_average_temp(self):
+        variance = Weather.disposition_temp_variance_f
+
+        # bad - colder
+        avg_temp = 50
+        self.assertEqual(
+            Weather.disposition_average,
+            Weather.dispose(
+                avg_temp=avg_temp,
+                current_temp=avg_temp
+            )
+        )
+
+
     def test_dispose_colder(self):
         self.assertIn('disposition_temp_variance_f', Weather.__dict__.keys())
         self.assertIsInstance(Weather.disposition_temp_variance_f, (int, float))

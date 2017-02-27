@@ -230,7 +230,7 @@ class Weather:
 
             if temp_diff >= __class__.disposition_temp_variance_f:
                 return __class__.disposition_good
-            elif temp_diff <= __class__.disposition_temp_variance_f:
+            elif temp_diff <= (__class__.disposition_temp_variance_f * -1):
                 return __class__.disposition_bad
 
         # bad if precipitating
